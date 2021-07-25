@@ -5,14 +5,13 @@ class script(object):
 
 You can call this as an Auto Filter Bot of @MM_MOVIESS
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+ഇവിടെ ഇങ്ങനെ വാ പൊളിച്ചു ഇരുന്നിട്ട് കാര്യമില്ല..പോയി @MM_MOVIESS ൽ പോയി join ചെയ്യ്!
 
-So no need to JOIN THAT Channel. Take the movie and Simply leave from Channel
+എന്നിട്ട് നല്ല പടം request ചെയ്ത download ചെയ്ത കാണൂ...😋
+For more Don't click <i>/help</i></b>"""
 
-For more click <i>help</i></b>"""
 
-
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>എന്നെ ആര് സഗായിക്കും??</b>
 <i>    
 * No One gonna Help you 😁 !
 
@@ -23,7 +22,7 @@ For more click <i>help</i></b>"""
 * Join @MM_MOVIESS :)
 
 No need To Come here again!
-Bot will automatically search for your file and give links to that!
+📞 Contact Admin : @MMGroupsupportbot
 </i>
 
 <b>© @MM_MOVIESS</b>"""
