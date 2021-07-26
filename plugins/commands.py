@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/IETUpdates/Auto-Filter-Bot")
+                            "CLOSE 🔓", callback_data='close')
                     ]
                 ]
             ),
