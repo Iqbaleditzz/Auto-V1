@@ -55,8 +55,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="📒 Pages 1/1",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b>⚠️ Don't Join Channel ⚠️
-ആവശ്യമുള്ള മൂവി എടുത്ത് saved message ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക @MM_MOVIESS © Here is the result for {message.text}</b>",
+                f"<b>ആവശ്യമുള്ള മൂവി എടുത്ത് saved message ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക @MM_MOVIESS © Here is the result for {message.text}</b>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
