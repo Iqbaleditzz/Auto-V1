@@ -11,7 +11,7 @@ You can call this as an Auto Filter Bot of @MM_MOVIESS
 For more Don't click <i>/help</i></b>"""
 
 
-    HELP_MSG = """<b>എന്നെ ആര് സഗായിക്കും??</b>
+    HELP_MSG = """<b>നല്ല സിനിമ പോയി request ചെയ്ത് കാണൂ..</b>
 <i>    
 * No One gonna Help you 😁 !
 
@@ -36,6 +36,6 @@ No need To Come here again!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Youtube Channel :</b> <a href='https://youtube.com/channel/UCNNbwBV9doS0GgSXJS7eTOQ'>Video Link</a> 
 
 """
