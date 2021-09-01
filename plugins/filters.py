@@ -55,7 +55,7 @@ async def filter(client: Bot, message: Message):
                 [InlineKeyboardButton(text="📒 Pages 1/1",callback_data="pages")]
             )
             await message.reply_text(
-                f"<b>⚠️ Don't Join Channel⚠️  ആവശ്യമുള്ള മൂവി എടുത്ത് saved message ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക. @MM_MOVIESS © Here is the result for {message.text}</b>",
+                f"<b>⚠️ Don't Join Channel ⚠️ \n\n ആവശ്യമുള്ള മൂവി എടുത്ത് ```saved message``` ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക. @MM_MOVIESS © Here is the result for</b><code> {message.text}</code>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )
             return
@@ -71,7 +71,7 @@ async def filter(client: Bot, message: Message):
         )
 
         await message.reply_text(
-                f"<b>⚠️ Don't Join Channel⚠️  ആവശ്യമുള്ള മൂവി എടുത്ത് saved message ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക.@MM_MOVIESS © Here is the result for {message.text}</b>",
+                f"<b>⚠️ Don't Join Channel ⚠️ \n\n ആവശ്യമുള്ള മൂവി എടുത്ത് ```saved message``` ലേക്ക് മാറ്റിയതിനു ശേഷം ഡൌൺലോഡ് ചെയ്യുക. @MM_MOVIESS © Here is the result for</b><code> {message.text}</code>",
                 reply_markup=InlineKeyboardMarkup(buttons)
             )    
 
@@ -200,7 +200,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
     else:
-        await query.answer("ഇത് നിനക്കുള്ളതല്ല..😋 Thats not for you!!",show_alert=True)
+        await query.answer("ഇത് നിനക്കുള്ളതല്ല..😋നിനക്ക് വേണമെങ്കിൽ നീ request ചെയ്യ്..\n\n Thats not for you!!If you want then,You can request..🙄 ",show_alert=True)
 
 
 def split_list(l, n):
