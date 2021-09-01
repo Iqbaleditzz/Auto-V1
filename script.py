@@ -11,24 +11,24 @@ You can call this as an Auto Filter Bot of @MM_MOVIESS
 For more Don't click <i>/help</i></b>"""
 
 
-    HELP_MSG = """<b>നല്ല സിനിമ പോയി request ചെയ്ത് കാണൂ..</b>
+    HELP_MSG = """<b>വീണ്ടും ഞാൻ പറയുകയാണ്.. പോയി സിനിമ request ചെയ്ത് കാണൂ..</b>
 <i>    
-* No One gonna Help you 😁 !
+✳️ No One gonna Help you 😁 !
 
-* നിന്നെ സഹായിക്കാൻ ഇപ്പൊ ആരും ഇവിടെ ഇല്ല 😄.
+✳️ നിന്നെ സഹായിക്കാൻ ഇപ്പൊ ആരും വരില്ല 😄.
 
-* മോൻ പോയിട്ട് വേറെ വല്ല പണിയും നോക്ക്
+✳️ പോയിട്ട് വേറെ വല്ല പണിയും നോക്ക്
 
-* Join @MM_MOVIESS :)
+✳️ Join @MM_MOVIESS 
 
-No need To Come here again!
+❌ No need To Come here again!
 📞 Contact Admin : @MMGroupsupportbot
 </i>
 
 <b>© @MM_MOVIESS</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
     
 ⭕️<b>Creater :</b> @IET_OWNER
 
@@ -36,6 +36,6 @@ No need To Come here again!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Youtube Channel :</b> <a href='https://youtube.com/channel/UCNNbwBV9doS0GgSXJS7eTOQ'>Video Link</a> 
+⭕️<b>Youtube Channel :</b> <a href='https://youtube.com/channel/UCNNbwBV9doS0GgSXJS7eTOQ'>Subscribe</a> 
 
 """
