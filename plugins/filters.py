@@ -170,7 +170,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
         elif query.data == "help_data":
-            await query.answer()
+            await query.answer("https://telegra.ph/file/4d131235267ec1e61dd9b.png")
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
