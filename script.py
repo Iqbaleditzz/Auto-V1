@@ -12,7 +12,7 @@ For more Don't click <i>/help</i></b>"""
 
 
     HELP_MSG = 
-     await client.send_sticker(chat_id=message.from_user.id, sticker='CAADBQADMwIAAtbcmFelnLaGAZhgBwI')
+     send_sticker(chat_id=message.from_user.id, sticker='CAADBQADMwIAAtbcmFelnLaGAZhgBwI')
 
 
     ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
