@@ -12,8 +12,7 @@ For more Don't click <i>/help</i></b>"""
 
 
     HELP_MSG ="""."""
-     bot.send_sticker(chat_id=message.from_user.id, sticker='CAACAgUAAxkBAAIwMmEJE6NKhQYbuL0b__7fG2nOH8M9AAJWAgACz5sZVAGl7RBliJ6jHgQ')
-
+     
 
     ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
     
