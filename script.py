@@ -1,7 +1,7 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {mention}
+    START_MSG = """ <b>Hi {}
 
 You can call this as an Auto Filter Bot of @MM_MOVIESS
 
