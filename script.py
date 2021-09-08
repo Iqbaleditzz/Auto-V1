@@ -11,21 +11,7 @@ You can call this as an Auto Filter Bot of @MM_MOVIESS
 For more Don't click <i>/help</i></b>"""
 
 
-    HELP_MSG = """<b>വീണ്ടും ഞാൻ പറയുകയാണ്.. പോയി സിനിമ request ചെയ്ത് കാണൂ..</b>
-<i>    
-✳️ No One gonna Help you 😁 !
-
-✳️ നിന്നെ സഹായിക്കാൻ ഇപ്പൊ ആരും വരില്ല 😄.
-
-✳️ പോയിട്ട് വേറെ വല്ല പണിയും നോക്ക്
-
-✳️ Join @MM_MOVIESS 
-
-❌ No need To Come here again!
-📞 Contact Admin : @MMGroupsupportbot
-</i>
-
-<b>© @MM_MOVIESS</b>"""
+    HELP_MSG = ""https://telegra.ph/file/4d131235267ec1e61dd9b.png""""
 
 
     ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
