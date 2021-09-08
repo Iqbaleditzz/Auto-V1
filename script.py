@@ -11,8 +11,8 @@ You can call this as an Auto Filter Bot of @MM_MOVIESS
 For more Don't click <i>/help</i></b>"""
 
 
-    HELP_MSG = 
-     send_sticker(chat_id=message.from_user.id, sticker='CAADBQADMwIAAtbcmFelnLaGAZhgBwI')
+    HELP_MSG = """
+     send_sticker(chat_id=message.from_user.id, sticker='CAADBQADMwIAAtbcmFelnLaGAZhgBwI')"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
