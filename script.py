@@ -11,7 +11,7 @@ You can call this as an Auto Filter Bot of @MM_MOVIESS
 For more Don't click <i>/help</i></b>"""
 
 
-    HELP_MSG ="""ㅤ ㅤㅤ ㅤㅤ ㅤㅤ ㅤ"""
+    HELP_MSG ="""No one gonna help you 😂"""
      
 
     ABOUT_MSG = """⭕️<b>My Name : MM Auto Filter Bot</b>
